@@ -3,14 +3,14 @@ Mobile App Dev - App Brainstorming Example
 
 ## Favorite Existing Apps - List
 1. Spotify
-1. Google Calendar
-1. Headspace
-1. YouTube
-1. Pomodoro Timer
-1. Notes/Google Keep
-1. Facebook Messenger
-1. Snapchat
-1. OneNote
+2. Google Calendar
+3. Headspace
+4. YouTube
+5. Pomodoro Timer
+6. Notes/Google Keep
+7. Facebook Messenger
+8. Snapchat
+9. OneNote
 
 ## Favorite Existing Apps - Categorize and Evaluate
 ### Spotify
