@@ -20,21 +20,21 @@ Mobile App Dev - App Brainstorming Example
    - **Story:** Allows users to listen to music and get recommendations depending on what the user listens to.
    - **Market:** Anyone that listens to music could enjoy this app. There are many genres of music, which in turn means that there will be many different types of people who will find use in this app.
    - **Habit:** Spotify is an app that can be used very frequently. Music can be consumed at any time of the day in different settings. This is an app that can be used continuously and be left on in the background.
-   - **Scope:** Spotify seems to have a large scope.
+   - **Scope:** Spotify seems to have a large scope in terms of options of music(breadth) but a narrow scope in terms of what the service offers(depth).  Even though there are different genres the execution of providing the music is the same for each.
 ### Google Calendar
    - **Category:** Productivity / Organization 
    - **Mobile:** Both web and mobile have the same structure and interface.
    - **Story:** Allows users to upload and organize events on the user's schedule by the hour, day, week, month, or year.
    - **Market:** Anyone that finds theirself dealing with multiple events on any regular basis should use this app. Ability to add, edit, and delete events according to the user's unique schedule.
    - **Habit:** Users can upload and reorganize their calendar as often as new events come or existing ones change, keeping the user in tune thoughtout the day with reminder notifications. Features like "Calendar Import" encourage users to upload other / shared calendars to keep in tune with events uploaded by others.
-   - **Scope:** Instagram started out extremely narrow focused, just posting pics and viewing feeds. Has expanded to a somewhat larger scope including "Instagram Stories" (a la SnapChat) and messenger features. 
+   - **Scope:** There must be complicated operations going on in the background to keep Google Calender working, but a stripped-down version of this app would be a calender app.  A calender app seems like an easy starting point in app development.  
 ### Headspace
-   - **Category:** ........
-   - **Mobile:** ........
-   - **Story:** .......
-   - **Market:** .........
-   - **Habit:** .............
-   - **Scope:** ............    
+   - **Category:** Health and Fitness
+   - **Mobile:** The mobile experience isn't very unique compared to the website in terms of functionality. Although, the app's interface is simpler and seems easier to use.
+   - **Story:** People always seem to feel busy.  This app helps users to de-strees, clear their heads, and improve focus. This app improves the well-being of people that feel stressed. 
+   - **Market:** The market for this app can include a large group of people. Headspace seems to try and make guided meditations more accessible and fun. I would think that the user base for this app is people that are over 15 or so.
+   - **Habit:** This app is meant to be a used about once a day.  The average user consumes, rather than creates using this app, as it cointains pre-recorded guided meditations.
+   - **Scope:** This app does not seems very challenging to make.  It is a collection of audio recordings that users can access.  There doesn't seem to be any other complex processes going on.
 ### Youtube
    - **Category:** Entertainment
    - **Mobile:** The mobile experience is very similar to the web experience.
@@ -43,12 +43,12 @@ Mobile App Dev - App Brainstorming Example
    - **Habit:** Some users use this app multiple times daily, others use it weekly, others maybe even monthly. Users who are YouTubers, or channel owners, likely use the app the most, to monitor the success and popularity of their videos.
    - **Scope:** This app has a very large scope.
 ### Pomodoro Timer
-   - **Category:** ........
-   - **Mobile:** ........
-   - **Story:** .......
-   - **Market:** .........
-   - **Habit:** .............
-   - **Scope:** ............
+   - **Category:** Productivity
+   - **Mobile:** Their are similar websites like this app.  The apps and the websites are all, baisically, exaclty the same.  There are no major differences in the functionality.
+   - **Story:** This app provides a minimalist timer that helps people concentrate on tasks.
+   - **Market:** I would say the market is for a niche group or it only appeals to small groups of people.  Since this app is simply a timer, it does not provide a huge value to many, since users could use timers that come with their smartphones already.
+   - **Habit:** The app can be used very frequently throughout the day. This app helps people stay focused on different types of task, so this can be applied to many activities.
+   - **Scope:** This app seems like one of the easiest to create.  It is simply a timer that can be altered slightly.  I still think a stripped-down version of this app would be a good starting point in creating an app.
 ### Google Keep
    - **Category:** Productivity
    - **Mobile:** The mobile experience is exactly the same at the web experience.
