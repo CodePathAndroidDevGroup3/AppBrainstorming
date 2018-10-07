@@ -15,3 +15,11 @@
    - **Market:** Anyone who at any time hosts a gathering with music can use this app.
    - **Habit:** This app can be used whenever people are gathered listening to music. 
    - **Scope:** The app seems to be do-able by the end of the program. A stripped-down version of this app will be a good experience.
+3. What Can I Make?
+   - **Description**: User can find recipes for dishes to make based on the ingredients they have in their fridge by searching within a recipe database.
+   - **Category:** Food and Drink
+   - **Mobile:** The mobile experience gives the user the convenience of using their mobile device while in the kitchen instead of limiting the user to their desktop or laptop computers, where convenience is less of a focused.
+   - **Story:** This app uses ingredients that the user indicates are present in their fridge and searches through a database of recipes where the app can pull from and present a number of dishes possible to make with the given ingredients.
+   - **Market:** This app is aimed at mostly younger individuals who are not so experienced in cooking or individuals who want to know what unique dishes can be made with the things they are in possession of.
+   - **Habit:** The user will use this app every time he/she wants to prepare a food without knowledge of the expansive list of foods possible to make with the ingredients have. This can occur one or two times a week, to as often as every day. Each time this happens, the user will reference the app.
+   - **Scope:** This app should not be very technically challenging to create. Given that we can gain access to recipe APIs, connecting the database to the app will be the most difficult part. Creating a stripped-down version will still be interesting to build.
