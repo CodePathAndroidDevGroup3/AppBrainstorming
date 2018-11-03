@@ -14,9 +14,64 @@ Allows any number of individuals to contribute song ideas to the queue where one
 
 ---
 
-### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * User can register
+ * User can login
+ * User can logout/end session
+ * User can "upvote" a song in the queue
+ * User can join/create a session
+ * User can see all songs in the queue
+ * User can search/add songs
+ * User can invite others to session
+
+**Optional Nice-to-have Stories**
+
+ * Auto Recommedations for session
+ * Add playlists from Spotify
+ * Reactions to current song/ Messages
+ * Auto Song Advancement
+
+## 2. Screen Archetypes
+
+ * Register
+   * User can register
+ * Login
+   * User can login
+   * User can join/create a session
+   * User can invite others to session
+* Stream
+    * User can see all songs in the queue
+    * User can "upvote" a song in the queue
+    * User can search/add songs
+    * Auto Recommedations for session
+    * Reactions to current song/ Messages
+* Settings
+    * User can logout/end session
+    * Auto Song Advancement
+    * Add playlists from Spotify
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Stream
+ * Settings
+
+**Flow Navigation** (Screen to Screen)
+
+ * Register
+     * Stream
+ * Login
+     * Stream
+ * Stream
+     * Settings
+ * Settings
+     * Stream
+     * Login
+.
 
 ---
 
@@ -28,4 +83,60 @@ Allows any number of individuals to contribute song ideas to the queue where one
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
 
+## 1. User Stories (Required and Optional)
 
+**Required Must-have Stories**
+
+ * User can register
+ * User can login
+ * User can logout/end session
+ * User can "upvote" a song in the queue
+ * User can join/create a session
+ * User can see all songs in the queue
+ * User can search/add songs
+ * User can invite others to session
+
+**Optional Nice-to-have Stories**
+
+ * Auto Recommedations for session
+ * Add playlists from Spotify
+ * Reactions to current song/ Messages
+ * Auto Song Advancement
+
+## 2. Screen Archetypes
+
+ * Register
+   * User can register
+ * Login
+   * User can login
+   * User can join/create a session
+   * User can invite others to session
+* Stream
+    * User can see all songs in the queue
+    * User can "upvote" a song in the queue
+    * User can search/add songs
+    * Auto Recommedations for session
+    * Reactions to current song/ Messages
+* Settings
+    * User can logout/end session
+    * Auto Song Advancement
+    * Add playlists from Spotify
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Stream
+ * Settings
+
+**Flow Navigation** (Screen to Screen)
+
+ * Register
+     * Stream
+ * Login
+     * Stream
+ * Stream
+     * Settings
+ * Settings
+     * Stream
+     * Login
