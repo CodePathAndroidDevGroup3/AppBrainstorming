@@ -76,7 +76,8 @@ Allows any number of individuals to contribute song ideas to the queue where one
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+![alt text](https://imgur.com/a/5GrhAHF)
+
 
 <img src="http://g.recordit.co/hEADzcQtlP.gif" width=200><br>
 
