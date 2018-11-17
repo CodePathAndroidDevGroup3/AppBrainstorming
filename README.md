@@ -78,7 +78,7 @@ Allows any number of individuals to contribute song ideas to the queue where one
 ### Wireframes
 // TODO: Add Wireframe Images
 
-http://g.recordit.co/hEADzcQtlP.gif
+<img src="http://g.recordit.co/hEADzcQtlP.gif" width=200><br>
 
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
