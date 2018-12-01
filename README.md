@@ -81,5 +81,5 @@ Allows any number of individuals to contribute song ideas to the queue where one
 <img src="http://g.recordit.co/hEADzcQtlP.gif" width=200><br>
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1N_Agg2Teyn0UJYjw0XPGupaY7AOBsvCtaOcpB512YQ8/edit?usp=sharing
 
